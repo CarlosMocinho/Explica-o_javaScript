@@ -2,10 +2,10 @@
 
 Este repositório documenta a pesquisa e os exemplos práticos desenvolvidos para as seguintes estruturas de controle em JavaScript:
 
-- If, else if, e else
-- Switch case
-- For loop
-- While loop
+- `If`, `else if`, e `else`
+- `Switch case`
+- `For loop`
+- `While loop`
 
 ## Integrantes do Grupo
 - Carlos Eduardo Mocinho Da Silva
