@@ -10,6 +10,7 @@ Este repositório documenta a pesquisa e os exemplos práticos desenvolvidos par
 ## Integrantes do Grupo
 - Carlos Eduardo Mocinho Da Silva
 - Eduarda De Barros Cicatto
+- Maicon Rafael Dameto Lucateli
 
 ## If, Else If, e Else
 
